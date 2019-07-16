@@ -113,9 +113,11 @@
     <string name="menu_mobile_data_warning">Mobiilse andmeside kasutamise hoiatus</string>
     <!-- Info section -->
     <string name="extras_category_title">Lisad</string>
+    <string name="developer_info_title">ROM developer</string>
     <string name="maintainer_info_title">Hooldaja</string>
     <string name="donate_info_title">Anneta</string>
     <string name="donate_info_summary">Toeta arengut</string>
+    <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Koduleht</string>
     <string name="website_info_summary">Külasta meie kodulehte</string>
     <string name="news_info_title">Uudised</string>
