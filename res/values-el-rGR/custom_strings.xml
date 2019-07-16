@@ -31,6 +31,7 @@
     <string name="download_completed_notification">Η λήψη ολοκληρώθηκε</string>
     <string name="download_starting_notification">Έναρξη λήψης</string>
     <string name="update_failed_notification">Η ενημέρωση απέτυχε</string>
+    <string name="installation_suspended_notification">Installation suspended</string>
     <!-- Menu -->
     <string name="menu_refresh">Ανανέωση</string>
     <string name="menu_preferences">Προτιμήσεις</string>
@@ -71,7 +72,9 @@
     <string name="confirm_delete_dialog_message">Διαγραφή του επιλεγμένου αρχείου ενημέρωσης;</string>
     <string name="pause_button">Παύση</string>
     <string name="resume_button">Συνέχιση</string>
+    <string name="suspend_button">Suspend</string>
     <string name="reboot">Επανεκκίνηση</string>
+    <string name="details_button">View details</string>
     <!-- Installation -->
     <string name="apply_update_dialog_title">Εφαρμογή ενημέρωσης</string>
     <string name="apply_update_dialog_message">Πρόκειται να αναβαθμίσετε σε <xliff:g id="update_name">%1$s</xliff:g>.\n\nΑν πατήσετε <xliff:g id="ok">%2$s</xliff:g>, η συσκευή θα κάνει επανεκκίνηση σε λειτουργία recovery για να εγκατασταθεί η ενημέρωση.\n\nΣημείωση: Αυτή η λειτουργία απαιτεί μια συμβατή recovery αλλιώς η ενημέρωση θα πρέπει να εγκατασταθεί χειροκίνητα.</string>

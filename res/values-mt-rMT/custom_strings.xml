@@ -94,6 +94,24 @@
     <string name="notification_export_fail">Żball ta \'esportazzjoni</string>
     <string name="toast_already_exporting">Diġà qed tesporta aġġornament</string>
     <!-- ETA -->
+    <plurals name="eta_seconds">
+        <item quantity="one">1 second left</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> seconds left</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> seconds left</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> seconds left</item>
+    </plurals>
+    <plurals name="eta_minutes">
+        <item quantity="one">1 minute left</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> minutes left</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> minutes left</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> minutes left</item>
+    </plurals>
+    <plurals name="eta_hours">
+        <item quantity="one">1 hour left</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> hours left</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> hours left</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> hours left</item>
+    </plurals>
     <!-- Mobile data warning -->
     <string name="update_on_mobile_data_title">Twissija</string>
     <string name="update_on_mobile_data_message">Qed tniżżel pakkett ta \'aġġornament bl-użu tad-data tal-mowbajl li x\'aktarx se tikkawża użu għoli tad-data. Tixtieq tipproċedi?</string>
