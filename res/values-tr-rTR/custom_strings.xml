@@ -31,6 +31,7 @@
     <string name="download_completed_notification">İndirme tamamlandı</string>
     <string name="download_starting_notification">İndirme başlatılıyor</string>
     <string name="update_failed_notification">Güncelleme başarısız</string>
+    <string name="installation_suspended_notification">Installation suspended</string>
     <!-- Menu -->
     <string name="menu_refresh">Yenile</string>
     <string name="menu_preferences">Tercihler</string>
@@ -71,7 +72,9 @@
     <string name="confirm_delete_dialog_message">Seçilen güncelleme dosyası silinsin mi?</string>
     <string name="pause_button">Duraklat</string>
     <string name="resume_button">Devam</string>
+    <string name="suspend_button">Suspend</string>
     <string name="reboot">Yeniden başlat</string>
+    <string name="details_button">View details</string>
     <!-- Installation -->
     <string name="apply_update_dialog_title">Güncellemeyi uygula</string>
     <string name="apply_update_dialog_message"><xliff:g id="update_name">%1$s</xliff:g> yükseltmek üzeresiniz.\n\n<xliff:g id="ok">%2$s</xliff:g> bastığınızda, güncellemeyi yüklemek için cihaz kurtarma modun da yeniden başlatılacak.\n\nNot: Bu özellik uyumlu bir Kurtarma bölümü gerektirir veya güncellemelerin el ile kurulması gerekir.</string>

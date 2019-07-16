@@ -31,10 +31,15 @@
     <string name="download_completed_notification">ダウンロードが完了しました</string>
     <string name="download_starting_notification">ダウンロードを開始中</string>
     <string name="update_failed_notification">更新に失敗しました</string>
+    <string name="installation_suspended_notification">Installation suspended</string>
     <!-- Menu -->
     <string name="menu_refresh">更新</string>
     <string name="menu_preferences">設定</string>
     <string name="menu_auto_updates_check">アップデートの自動確認</string>
+    <string name="menu_auto_updates_check_interval_daily">Once a day</string>
+    <string name="menu_auto_updates_check_interval_weekly">Once a week</string>
+    <string name="menu_auto_updates_check_interval_monthly">Once a month</string>
+    <string name="menu_auto_updates_check_interval_never">Never</string>
     <string name="menu_delete_update">削除</string>
     <string name="menu_copy_url">URL のコピー</string>
     <string name="menu_export_update">アップデートのエクスポート</string>
@@ -67,7 +72,9 @@
     <string name="confirm_delete_dialog_message">選択したアップデートファイルを削除しますか?</string>
     <string name="pause_button">一時停止</string>
     <string name="resume_button">再開</string>
+    <string name="suspend_button">Suspend</string>
     <string name="reboot">再起動</string>
+    <string name="details_button">View details</string>
     <!-- Installation -->
     <string name="apply_update_dialog_title">アップデートを適用</string>
     <string name="apply_update_dialog_message"><xliff:g id="update_name">%1$s</xliff:g>にアップデートしようとしています。\n\n<xliff:g id="ok">%2$s</xliff:g>を押すと、アップデートをインストールするために端末をリカバリーモードでに再起動します。\n\n注意: この機能には対応したリカバリーが必要です。なければ手動でインストールする必要があります。</string>
