@@ -22,7 +22,7 @@
     <string name="export_channel_title">Dokončení exportu</string>
     <string name="new_updates_channel_title">Nové aktualizace</string>
     <string name="ongoing_channel_title">Probíhající stahování</string>
-    <string name="update_failed_channel_title">Aktualizace se nezdařila</string>
+    <string name="update_failed_channel_title">Aktualizace selhala</string>
     <string name="verification_failed_notification">Ověření selhalo</string>
     <string name="verifying_download_notification">Ověření aktualizace</string>
     <string name="downloading_notification">Stahování</string>
@@ -30,8 +30,8 @@
     <string name="download_paused_error_notification">Chyba při stahování</string>
     <string name="download_completed_notification">Stahování úspěšné</string>
     <string name="download_starting_notification">Zahajování stahování</string>
-    <string name="update_failed_notification">Aktualizace se nezdařila</string>
-    <string name="installation_suspended_notification">Installation suspended</string>
+    <string name="update_failed_notification">Aktualizace selhala</string>
+    <string name="installation_suspended_notification">Instalace odložena</string>
     <!-- Menu -->
     <string name="menu_refresh">Obnovit</string>
     <string name="menu_preferences">Předvolby</string>
@@ -43,21 +43,21 @@
     <string name="menu_delete_update">Odstranit</string>
     <string name="menu_copy_url">Kopírovat URL</string>
     <string name="menu_export_update">Export aktualizace</string>
-    <string name="menu_show_changelog">Zobrazit seznam změn</string>
+    <string name="menu_show_changelog">Změny v aktuální verzi</string>
     <string name="changelog_loading">Načítání…</string>
     <string name="label_download_url">URL stažení</string>
     <string name="toast_download_url_copied">URL zkopírována</string>
     <!-- General -->
-    <string name="update_found_notification">Nové aktualizace k dispozici</string>
+    <string name="update_found_notification">Nová aktualizace k dispozici</string>
     <string name="snack_no_updates_found">Nové aktualizace nenalezeny</string>
     <string name="snack_updates_check_failed">Zjištění nové verze selhalo. Prosím zkontrolujte připojení k internetu a pokus opakujte.</string>
     <string name="snack_download_failed">Stahování selhalo. Prosím zkontrolujte připojení k internetu a pokus opakujte.</string>
-    <string name="snack_download_verification_failed">Ověření aktualizace se nezdařilo.</string>
-    <string name="snack_download_verified">Stahování úspěšné.</string>
+    <string name="snack_download_verification_failed">Ověření aktualizace selhalo.</string>
+    <string name="snack_download_verified">Stahování dokončeno.</string>
     <string name="snack_update_not_installable">Tuto aktualizaci nelze nainstalovat přes aktuální sestavení.</string>
     <string name="text_download_speed">%1$s, %2$s/s</string>
-    <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> z <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
-    <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> z <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>
+    <string name="list_download_progress_new"><xliff:g example="12.2" id="filesize_without_unit">%1$s</xliff:g> z <xliff:g example="310 MB" id="filesize_without_unit">%2$s</xliff:g> • <xliff:g example="56" id="percentage">%3$s</xliff:g></string>
+    <string name="list_download_progress_eta_new"><xliff:g example="12.2" id="filesize_without_unit">%1$s</xliff:g> z <xliff:g example="310 MB" id="filesize_without_unit">%2$s</xliff:g> (<xliff:g example="3 minutes left" id="eta">%3$s</xliff:g>) • <xliff:g example="56" id="percentage">%4$s</xliff:g></string>
     <string name="list_verifying_update">Ověření aktualizace</string>
     <string name="list_no_updates">Nebyly nalezeny žádné nové aktualizace. Chcete-li ručně vyhledat nové aktualizace, použijte tlačítko „Obnovit“.</string>
     <string name="blocked_update_dialog_title">Aktualizace zablokována</string>
@@ -69,11 +69,11 @@
     <string name="action_delete">Odstranit</string>
     <string name="action_cancel">Zrušit</string>
     <string name="confirm_delete_dialog_title">Smazat soubor</string>
-    <string name="confirm_delete_dialog_message">Smazat zvolený soubor aktualizace?</string>
+    <string name="confirm_delete_dialog_message">Smazat vybraný soubor aktualizace?</string>
     <string name="pause_button">Pozastavit</string>
-    <string name="resume_button">Obnovit</string>
-    <string name="suspend_button">Suspend</string>
-    <string name="reboot">Reboot</string>
+    <string name="resume_button">Pokračovat</string>
+    <string name="suspend_button">Odložit</string>
+    <string name="reboot">Restartovat</string>
     <string name="details_button">Zobrazit podrobnosti</string>
     <!-- Installation -->
     <string name="apply_update_dialog_title">Použít aktualizaci</string>
