@@ -59,7 +59,7 @@
     <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
     <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>
     <string name="list_verifying_update">正在验证更新</string>
-    <string name="list_no_updates">未找到更新。要手动检查更新，请使用刷新按钮。</string>
+    <string name="list_no_updates">未找到更新。\n要手动检查更新，请点击刷新按钮。</string>
     <string name="blocked_update_dialog_title">更新已被阻止</string>
     <!-- Actions -->
     <string name="action_download">下载</string>
@@ -113,7 +113,7 @@
     <string name="maintainer_info_title">维护者</string>
     <string name="donate_info_title">捐赠</string>
     <string name="donate_info_summary">支持开发</string>
-    <string name="website_info_title">官方网站</string>
+    <string name="website_info_title">网站</string>
     <string name="website_info_summary">访问我们的网站</string>
     <string name="news_info_title">新闻</string>
     <string name="news_info_summary">随时了解最新信息</string>
