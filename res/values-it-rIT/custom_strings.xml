@@ -17,9 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App name -->
-    <string name="app_name">Aggiornamenti di sistema</string>
+    <string name="app_name">Aggiornamento di sistema</string>
     <!-- Notifications -->
-    <string name="export_channel_title">Completamento esportazione</string>
+    <string name="export_channel_title">Esportazione in corso</string>
     <string name="new_updates_channel_title">Nuovi aggiornamenti</string>
     <string name="ongoing_channel_title">Download in corso</string>
     <string name="update_failed_channel_title">Aggiornamento fallito</string>
