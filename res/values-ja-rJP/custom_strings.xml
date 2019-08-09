@@ -110,11 +110,11 @@
     <string name="menu_mobile_data_warning">モバイルデータの警告</string>
     <!-- Info section -->
     <string name="extras_category_title">その他</string>
-    <string name="developer_info_title">ROM developer</string>
+    <string name="developer_info_title">ROM 開発者</string>
     <string name="maintainer_info_title">メンテナ</string>
     <string name="donate_info_title">寄付</string>
     <string name="donate_info_summary">開発を支援する</string>
-    <string name="support_info_summary">Support your device maintainer</string>
+    <string name="support_info_summary">お使いの端末のメンテナをサポートする</string>
     <string name="website_info_title">ウェブサイト</string>
     <string name="website_info_summary">ウェブサイトを表示</string>
     <string name="news_info_title">ニュース</string>
