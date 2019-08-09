@@ -110,9 +110,11 @@
     <string name="menu_mobile_data_warning">Peringatan data seluler</string>
     <!-- Info section -->
     <string name="extras_category_title">Tambahan</string>
+    <string name="developer_info_title">ROM developer</string>
     <string name="maintainer_info_title">Pengelola</string>
     <string name="donate_info_title">Donasi</string>
     <string name="donate_info_summary">Dukung pengembangan</string>
+    <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Situs web</string>
     <string name="website_info_summary">Kunjungi situs web kami</string>
     <string name="news_info_title">Berita</string>
