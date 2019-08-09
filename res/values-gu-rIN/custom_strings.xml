@@ -113,9 +113,11 @@
     <string name="menu_mobile_data_warning">Mobile data warning</string>
     <!-- Info section -->
     <string name="extras_category_title">વધારાનું</string>
+    <string name="developer_info_title">ROM developer</string>
     <string name="maintainer_info_title">જાળવનાર</string>
     <string name="donate_info_title">બક્ષિસ આપો</string>
     <string name="donate_info_summary">વિકાસને સપોર્ટ કરો</string>
+    <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">વેબસાઇટ</string>
     <string name="website_info_summary">અમારી વેબસાઇટની મુલાકાત લો</string>
     <string name="news_info_title">સમાચાર</string>
