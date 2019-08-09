@@ -113,9 +113,11 @@
     <string name="menu_mobile_data_warning">Advertencia de datos móviles</string>
     <!-- Info section -->
     <string name="extras_category_title">Extras</string>
+    <string name="developer_info_title">ROM developer</string>
     <string name="maintainer_info_title">Mantenedor</string>
     <string name="donate_info_title">Donar</string>
     <string name="donate_info_summary">Apoyar el desarrollo</string>
+    <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Sitio web</string>
     <string name="website_info_summary">Visite nuestro sitio web</string>
     <string name="news_info_title">Noticias</string>
