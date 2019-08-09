@@ -119,9 +119,11 @@
     <string name="menu_mobile_data_warning">Ostrzeżenie o danych komórkowych</string>
     <!-- Info section -->
     <string name="extras_category_title">Dodatki</string>
+    <string name="developer_info_title">ROM developer</string>
     <string name="maintainer_info_title">Opiekun</string>
     <string name="donate_info_title">Dotacja</string>
     <string name="donate_info_summary">Wesprzyj rozwój programu</string>
+    <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Strona</string>
     <string name="website_info_summary">Odwiedź naszą stronę</string>
     <string name="news_info_title">Nowości</string>
