@@ -45,6 +45,7 @@
     <string name="menu_export_update">Экспарт абнаўлення</string>
     <string name="menu_show_changelog">Змены ў бягучай версіі</string>
     <string name="changelog_loading">Загрузка…</string>
+    <string name="menu_ab_perf_mode">Prioritize update process</string>
     <string name="label_download_url">URL-адрасы спамповак</string>
     <string name="toast_download_url_copied">URL-адрас скапіяваны</string>
     <!-- General -->
