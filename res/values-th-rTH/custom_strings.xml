@@ -45,6 +45,7 @@
     <string name="menu_export_update">ส่งออกการอัปเดต</string>
     <string name="menu_show_changelog">การเปลี่ยนแปลงในเวอร์ชั่นปัจจุบัน</string>
     <string name="changelog_loading">กำลังโหลด…</string>
+    <string name="menu_ab_perf_mode">Prioritize update process</string>
     <string name="label_download_url">ดาวน์โหลด URL</string>
     <string name="toast_download_url_copied">คัดลอก URL แล้ว</string>
     <!-- General -->
