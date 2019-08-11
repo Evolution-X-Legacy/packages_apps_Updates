@@ -45,6 +45,7 @@
     <string name="menu_export_update">导出更新</string>
     <string name="menu_show_changelog">新版特性</string>
     <string name="changelog_loading">载入中...</string>
+    <string name="menu_ab_perf_mode">Prioritize update process</string>
     <string name="label_download_url">下载链接</string>
     <string name="toast_download_url_copied">链接已复制</string>
     <!-- General -->
