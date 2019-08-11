@@ -45,6 +45,7 @@
     <string name="menu_export_update">L-esportazzjoni tal-aġġornament</string>
     <string name="menu_show_changelog">Bidliet fil-verżjoni kurrenti</string>
     <string name="changelog_loading">Tagħbija…</string>
+    <string name="menu_ab_perf_mode">Prioritize update process</string>
     <string name="label_download_url">Niżżel il-URL</string>
     <string name="toast_download_url_copied">URL Ikkupjat</string>
     <!-- General -->
