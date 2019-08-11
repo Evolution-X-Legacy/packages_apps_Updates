@@ -45,6 +45,7 @@
     <string name="menu_export_update">Export update</string>
     <string name="menu_show_changelog">Changes in current version</string>
     <string name="changelog_loading">لوڈ ہو رہا ہے…</string>
+    <string name="menu_ab_perf_mode">Prioritize update process</string>
     <string name="label_download_url">ڈاؤن لوڈ یو آر ایل</string>
     <string name="toast_download_url_copied">یو آر ایل نقل کر لیا ہے</string>
     <!-- General -->
