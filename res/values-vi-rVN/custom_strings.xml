@@ -115,6 +115,7 @@
     <string name="maintainer_info_title">Người duy trì</string>
     <string name="donate_info_title">Ủng hộ</string>
     <string name="donate_info_summary">Hỗ trợ việc phát triển</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Hỗ trợ người duy trì cho thiết bị bạn</string>
     <string name="website_info_title">Trang web</string>
     <string name="website_info_summary">Truy cập trang web của chúng tôi</string>
