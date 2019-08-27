@@ -118,6 +118,7 @@
     <string name="maintainer_info_title">রক্ষণাবেক্ষণকারী</string>
     <string name="donate_info_title">দান করুন</string>
     <string name="donate_info_summary">উন্নয়ন সহায়তা করুন</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">ওয়েবসাইট</string>
     <string name="website_info_summary">আমাদের ওয়েবসাইট দেখুন</string>
