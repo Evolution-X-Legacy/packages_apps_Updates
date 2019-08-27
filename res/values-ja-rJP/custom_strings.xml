@@ -115,7 +115,7 @@
     <string name="maintainer_info_title">メンテナ</string>
     <string name="donate_info_title">寄付</string>
     <string name="donate_info_summary">開発を支援する</string>
-    <string name="support_info_title">Donate to the device maintainer</string>
+    <string name="support_info_title">お使いの端末のメンテナーに寄付する</string>
     <string name="support_info_summary">お使いの端末のメンテナをサポートする</string>
     <string name="website_info_title">ウェブサイト</string>
     <string name="website_info_summary">ウェブサイトを表示</string>
