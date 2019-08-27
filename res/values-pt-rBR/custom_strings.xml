@@ -118,6 +118,7 @@
     <string name="maintainer_info_title">Mantenedor</string>
     <string name="donate_info_title">Doar</string>
     <string name="donate_info_summary">Apoie o desenvolvimento</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Apoie o mantenedor do seu dispositivo</string>
     <string name="website_info_title">Site</string>
     <string name="website_info_summary">Visite o website do projeto</string>
