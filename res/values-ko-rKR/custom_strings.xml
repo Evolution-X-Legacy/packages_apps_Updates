@@ -115,6 +115,7 @@
     <string name="maintainer_info_title">관리자</string>
     <string name="donate_info_title">기부</string>
     <string name="donate_info_summary">개발 지원하기</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">웹사이트</string>
     <string name="website_info_summary">웹사이트 방문</string>
