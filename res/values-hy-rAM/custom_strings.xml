@@ -118,6 +118,7 @@
     <string name="maintainer_info_title">Maintainer</string>
     <string name="donate_info_title">Աջակցել</string>
     <string name="donate_info_summary">Աջակցել մշակմանը</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Վեբկայք</string>
     <string name="website_info_summary">Այցելեք մեր վեբ կայքը</string>
