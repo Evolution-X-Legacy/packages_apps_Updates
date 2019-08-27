@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App name -->
-    <string name="app_name">อัพเดทระบบ</string>
+    <string name="app_name">อัพเดตระบบ</string>
     <!-- Notifications -->
     <string name="export_channel_title">การส่งออกเสร็จสมบูรณ์</string>
     <string name="new_updates_channel_title">การอัปเดตใหม่</string>
@@ -45,7 +45,7 @@
     <string name="menu_export_update">ส่งออกการอัปเดต</string>
     <string name="menu_show_changelog">การเปลี่ยนแปลงในเวอร์ชั่นปัจจุบัน</string>
     <string name="changelog_loading">กำลังโหลด…</string>
-    <string name="menu_ab_perf_mode">Prioritize update process</string>
+    <string name="menu_ab_perf_mode">จัดลำดับความสำคัญของกระบวนการอัพเดต</string>
     <string name="label_download_url">ดาวน์โหลด URL</string>
     <string name="toast_download_url_copied">คัดลอก URL แล้ว</string>
     <!-- General -->
