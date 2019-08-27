@@ -45,7 +45,7 @@
     <string name="menu_export_update">Export aktualizace</string>
     <string name="menu_show_changelog">Změny v aktuální verzi</string>
     <string name="changelog_loading">Načítání…</string>
-    <string name="menu_ab_perf_mode">Prioritize update process</string>
+    <string name="menu_ab_perf_mode">Upřednostňovat proces aktualizace</string>
     <string name="label_download_url">URL stažení</string>
     <string name="toast_download_url_copied">URL zkopírována</string>
     <!-- General -->
@@ -124,6 +124,7 @@
     <string name="maintainer_info_title">Správce zařízení</string>
     <string name="donate_info_title">Přispět</string>
     <string name="donate_info_summary">Podpořte vývoj ROM</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Podpořte správce vašeho zařízení</string>
     <string name="website_info_title">Webová stránka</string>
     <string name="website_info_summary">Navštivte naše webové stránky</string>
