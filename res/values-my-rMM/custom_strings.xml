@@ -118,6 +118,7 @@
     <string name="maintainer_info_title">ပြုပြင်ပေးသူ</string>
     <string name="donate_info_title">လှူရန်</string>
     <string name="donate_info_summary">တိုးတက်တီတွင်မှုအတွက် ပံ့ပိုးပါ</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">ဝဘ်ဆိုက်</string>
     <string name="website_info_summary">ကျွန်ုပ်တို့၏ ၀ဘ်ဆိုဒ်ကို ကြည့်ရှူရန်</string>
