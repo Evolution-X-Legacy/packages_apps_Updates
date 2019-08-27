@@ -45,7 +45,7 @@
     <string name="menu_export_update">Ekspor pembaruan</string>
     <string name="menu_show_changelog">Tampilkan catatan perubahan</string>
     <string name="changelog_loading">Memuat…</string>
-    <string name="menu_ab_perf_mode">Prioritize update process</string>
+    <string name="menu_ab_perf_mode">Prioritaskan proses pembaruan</string>
     <string name="label_download_url">URL Unduh</string>
     <string name="toast_download_url_copied">URL disalin</string>
     <!-- General -->
@@ -115,6 +115,7 @@
     <string name="maintainer_info_title">Pengelola</string>
     <string name="donate_info_title">Donasi</string>
     <string name="donate_info_summary">Dukung pengembangan</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Situs web</string>
     <string name="website_info_summary">Kunjungi situs web kami</string>
