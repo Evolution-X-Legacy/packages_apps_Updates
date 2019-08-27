@@ -113,9 +113,9 @@
     <string name="extras_category_title">Tính năng bổ sung</string>
     <string name="developer_info_title">Nhà phát triển ROM</string>
     <string name="maintainer_info_title">Người duy trì</string>
-    <string name="donate_info_title">Ủng hộ</string>
-    <string name="donate_info_summary">Hỗ trợ việc phát triển</string>
-    <string name="support_info_title">Donate to the device maintainer</string>
+    <string name="donate_info_title">Đóng góp cho nhà phát triển ROM</string>
+    <string name="donate_info_summary">Hỗ trợ sự phát triển của Evolution X</string>
+    <string name="support_info_title">Đóng góp cho người duy trì thiết bị</string>
     <string name="support_info_summary">Hỗ trợ người duy trì cho thiết bị bạn</string>
     <string name="website_info_title">Trang web</string>
     <string name="website_info_summary">Truy cập trang web của chúng tôi</string>
