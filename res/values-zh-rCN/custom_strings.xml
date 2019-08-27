@@ -115,6 +115,7 @@
     <string name="maintainer_info_title">维护者</string>
     <string name="donate_info_title">捐赠</string>
     <string name="donate_info_summary">支持开发</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">支持您的设备维护者</string>
     <string name="website_info_title">网站</string>
     <string name="website_info_summary">访问我们的网站</string>
