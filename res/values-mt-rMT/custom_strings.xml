@@ -124,6 +124,7 @@
     <string name="maintainer_info_title">Maintainer</string>
     <string name="donate_info_title">Donatja</string>
     <string name="donate_info_summary">Appoġġja l-iżvilupp</string>
+    <string name="support_info_title">Donate to the device maintainer</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Sit tal-Web</string>
     <string name="website_info_summary">Żur il-websajt tagħna</string>
