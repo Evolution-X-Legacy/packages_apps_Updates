@@ -45,7 +45,7 @@
     <string name="menu_export_update">Xuất bản cập nhật</string>
     <string name="menu_show_changelog">Hiển thị nhật ký thay đổi</string>
     <string name="changelog_loading">Đang tải…</string>
-    <string name="menu_ab_perf_mode">Prioritize update process</string>
+    <string name="menu_ab_perf_mode">Ưu tiên quá trình cập nhật</string>
     <string name="label_download_url">Tải xuống URL</string>
     <string name="toast_download_url_copied">Đã sao chép URL</string>
     <!-- General -->
