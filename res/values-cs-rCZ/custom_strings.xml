@@ -120,17 +120,17 @@
     <string name="menu_mobile_data_warning">Upozornění mobilních dat</string>
     <!-- Info section -->
     <string name="extras_category_title">Doplňky</string>
-    <string name="developer_info_title">Vývojář ROM</string>
+    <string name="developer_info_title">Hlavní vývojář Evolution X</string>
     <string name="maintainer_info_title">Správce zařízení</string>
-    <string name="donate_info_title">Přispět</string>
-    <string name="donate_info_summary">Podpořte vývoj ROM</string>
-    <string name="support_info_title">Donate to the device maintainer</string>
+    <string name="donate_info_title">Přispějte vývojáři ROM</string>
+    <string name="donate_info_summary">Podpořte vývoj Evolution X</string>
+    <string name="support_info_title">Darujte správci zařízení</string>
     <string name="support_info_summary">Podpořte správce vašeho zařízení</string>
-    <string name="website_info_title">Webová stránka</string>
+    <string name="website_info_title">Domovská stránka Evolution X</string>
     <string name="website_info_summary">Navštivte naše webové stránky</string>
-    <string name="news_info_title">Novinky o ROM</string>
+    <string name="news_info_title">Novinky o Evolution X</string>
     <string name="news_info_summary">Zůstaňte informováni o aktualizacích a dalších novinkách</string>
-    <string name="forum_info_title">Vlákno fóra</string>
+    <string name="forum_info_title">Vlákno fóra XDA</string>
     <string name="forum_info_summary">Zobrazit příspěvky ve fóru</string>
     <string name="error_open_url">Nepodařilo se otevřít adresu URL v prohlížeči</string>
 </resources>
