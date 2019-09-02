@@ -45,7 +45,7 @@
     <string name="menu_export_update">Exportar actualización</string>
     <string name="menu_show_changelog">Cambios en la última versión</string>
     <string name="changelog_loading">Cargando…</string>
-    <string name="menu_ab_perf_mode">Prioritize update process</string>
+    <string name="menu_ab_perf_mode">Priorizar el proceso de actualización</string>
     <string name="label_download_url">URL de descarga</string>
     <string name="toast_download_url_copied">URL copiada</string>
     <!-- General -->
@@ -118,7 +118,7 @@
     <string name="maintainer_info_title">Mantenedor</string>
     <string name="donate_info_title">Donar</string>
     <string name="donate_info_summary">Apoyar el desarrollo</string>
-    <string name="support_info_title">Donate to the device maintainer</string>
+    <string name="support_info_title">Donar al mantenedor del dispositivo</string>
     <string name="support_info_summary">Support your device maintainer</string>
     <string name="website_info_title">Sitio web</string>
     <string name="website_info_summary">Visite nuestro sitio web</string>
